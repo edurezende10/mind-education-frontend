@@ -1,0 +1,39 @@
+.login-wrapper {
+    margin-left: 6%;
+    width: 60%;
+  }
+  
+  .login--title {
+    margin-top: 11%;
+  
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 65px;
+    font-size: 2rem;
+    color: #03014c;
+  }
+  .login--subtittle {
+    line-height: 1.37rem;
+    color: #03014c;
+  }
+  .login--form label{
+      display: block;
+      font-size: .75rem;
+      line-height: 1.4rem;
+      opacity: .5;
+      margin:54px 0;
+  }
+  .login--form label input{
+      display: block;
+      border: none;
+      border-bottom: .8px solid #03014C;
+      width: 100%;
+  }
+  
+  
+  .login--form__signup{
+      margin-bottom: 20%;
+  }
+  .login--form__signup a{
+      color: #99bcc9;
+  }

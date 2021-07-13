@@ -1,0 +1,17 @@
+.primary-button{
+    width: 100%;
+    height: 55px;
+    box-shadow: none;
+    border: none;
+    background-color:#7F63F4 ; 
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.18rem;
+    border-radius: 8px;
+    margin-bottom: 15%;
+    cursor: pointer;
+
+    &:hover{
+        background-color:#7F63F4 ;
+    }
+}
